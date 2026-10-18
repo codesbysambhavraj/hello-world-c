@@ -1,6 +1,6 @@
 # Hello World in C
 
-A simple Hello World program written in C. This is my first repository, created to practice C programming and the Git/GitHub workflow.
+A simple Hello World program written in C
 
 ## Requirements
 - A C compiler such as GCC
